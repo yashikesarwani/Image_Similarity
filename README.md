@@ -9,7 +9,7 @@ feature vectors from the given dataset to find the similar images to an input im
 ![alt text](https://github.com/yashikesarwani/Image_Similarity/blob/master/output/vgg19/vgg19_retrieval_0.png)
 
 
-Steps for finding similar images:
+<b>Steps for finding similar images:</b>
  
 1. From the given dataset, put all the images into the training folder inside the dataset directory and then choosing randomly an image from the training folder images to select it as a query image and putting it in a testing directory inside the dataset directory. <br>
 2. Load the trained VGG model and remove the last layers. <br>

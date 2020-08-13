@@ -6,4 +6,4 @@ by dissecting the weights of image-object classifier VGG and using it to extract
 feature vectors from the given dataset to find the similar images to an input image.
 
 
-![alt text] (https://github.com/yashikesarwani/Image_Similarity/blob/master/output/vgg19/vgg19_retrieval_0.png)
+![alt text](https://github.com/yashikesarwani/Image_Similarity/blob/master/output/vgg19/vgg19_retrieval_0.png)
